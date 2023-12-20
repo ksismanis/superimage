@@ -1,6 +1,7 @@
 # ISR 
 Code at  https://idealo.github.io/image-super-resolution
 Command is test.py
+ 
 Libraries are at tf39.yml
 
 # Waifu2x
@@ -8,6 +9,7 @@ Using nunif
 Code at https://github.com/nagadomi/nunif
 Command is
  python -m waifu2x.cli -m noise_scale4x -n 3 -i /data/data1/users/ksismanis/samples/samples/photo_color -o photo_color --format jpeg
+ 
 Libraries are rcan.yml, nunif.yml
 
 # Real-ESRGAN
